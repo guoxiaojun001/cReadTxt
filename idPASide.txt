@@ -1,0 +1,6 @@
+2023-05-17 16:54:31 kernel code pass
+2023-05-17 16:54:31 fuck vfs_create 1 failed
+2023-05-17 16:54:31 kernel vfs_setlease 1 failed
+2023-05-17 17:10:12 module scaner  pass
+2023-05-17 17:10:12 illegal_module sprdwl_ng forbid!
+2023-05-17 17:10:12 app measurementd pass
